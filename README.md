@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Abubot Shop Website<br>🌱 I’m currently learning Three.js<br>💬 Ask me about History, Video Games, Anime, and Horror
+🔭 I’m currently working on - <br>🌱 I’m currently learning Three.js<br>💬 Ask me about History, Video Games, Anime, and Horror
 
 
 ## 🌐 Socials:
